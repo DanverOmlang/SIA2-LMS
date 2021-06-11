@@ -7,7 +7,7 @@
 		<meta name="author" content="SBIT-3K Group1 SIA102">
 		<meta charset="UTF-8">
         <!-- Bootstrap -->
-				<link href="admin/images/favicon.ico" rel="icon" type="image">
+				<link href="admin/images/icon.ico" rel="icon" type="image">
 				<link href="admin/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen"/>
 				<link href="admin/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen"/>
 				<link href="admin/bootstrap/css/font-awesome.css" rel="stylesheet" media="screen"/>
