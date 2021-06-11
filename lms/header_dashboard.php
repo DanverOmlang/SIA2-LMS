@@ -3,11 +3,11 @@
     <head>
         <title>CHMSC LMS</title>
 		<meta name="description" content="Learning Management System">
-		<meta name="keywords" content="CHMSC LMS,CHMSCLMS,CHMSC,LMS,CHMSCLMS.COMXA">
-		<meta name="author" content="JOHN KEVIN LORAYNA">
+			<meta name="keywords" content="QCU-LMS">
+		<meta name="author" content="SBIT-3K Group1 SIA102">
 		<meta charset="UTF-8">
         <!-- Bootstrap -->
-		<link href="admin/images/favicon.ico" rel="icon" type="image">
+		<link href="admin/images/icon.ico" rel="icon" type="image">
         <link href="admin/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
         <link href="admin/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
         <link href="admin/bootstrap/css/font-awesome.css" rel="stylesheet" media="screen">
