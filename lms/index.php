@@ -2,7 +2,8 @@
 <style>
 	body#login::before {
     content: "";
-    background: #00000036;
+    background-image: url(admin/images/index1.jpg);
+     box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.3);
     position: absolute;
     top: 0;
     /* z-index: 1; */

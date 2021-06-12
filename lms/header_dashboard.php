@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <title>CHMSC LMS</title>
+        <title>QCU-LMS</title>
 		<meta name="description" content="Learning Management System">
 			<meta name="keywords" content="QCU-LMS">
 		<meta name="author" content="SBIT-3K Group1 SIA102">

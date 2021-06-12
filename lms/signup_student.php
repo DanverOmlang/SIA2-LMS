@@ -1,4 +1,19 @@
+
 <?php include('header.php'); ?>
+<style>
+	body {
+    content: "";
+    background-image: url(admin/images/index1.jpg);
+     box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.3);
+    position: absolute;
+    top: 0;
+    /* z-index: 1; */
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+	
+</style>
   <body id="login">
     <div class="container">
 	<div class="row-fluid">
